@@ -1,0 +1,13 @@
+2022-07-10 12:16:15.766 [main] INFO  stepDefinition.Hooks - before0
+2022-07-10 12:16:15.768 [main] INFO  stepDefinition.Hooks - Opening browser
+2022-07-10 12:16:18.008 [main] INFO  stepDefinition.Hooks - before 1
+2022-07-10 12:16:20.955 [main] INFO  stepDefinition.ReadPropertiesData - The file name is
+2022-07-10 12:16:20.956 [main] INFO  stepDefinition.ReadPropertiesData - The value for keyhttp://live.techpanda.org/index.php/customer/account/login/
+2022-07-10 12:16:21.502 [main] INFO  stepDefinition.LoginStepDefinition - Username1java@gmail.com
+2022-07-10 12:16:21.502 [main] INFO  stepDefinition.LoginStepDefinition - Password1Selenium@123
+2022-07-10 12:16:21.628 [main] INFO  com.example.pages.LoginPage - Username
+2022-07-10 12:16:21.698 [main] INFO  com.example.pages.LoginPage - Password
+2022-07-10 12:16:23.861 [main] INFO  com.example.pages.LoginPage - submit
+2022-07-10 12:16:23.868 [main] INFO  stepDefinition.Hooks - after1
+2022-07-10 12:16:23.868 [main] INFO  stepDefinition.Hooks - after 0
+2022-07-10 12:16:23.980 [main] INFO  stepDefinition.Hooks - Closing browser
